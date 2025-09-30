@@ -69,6 +69,7 @@ body {
     align-items: center;
     flex-direction: column;
     text-align: center;
+    padding-bottom: 2rem;
 }
 
 .foto-perfil {
@@ -263,3 +264,4 @@ h1 {
         transform: translateY(-4px);
     }
 }
+
