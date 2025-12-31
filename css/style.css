@@ -153,6 +153,7 @@ h1 {
     text-align: center;
     font-size: 2.5rem;
     margin-bottom: 50px;
+    color: white;
 }
 
 .projetos-card:hover {
@@ -263,6 +264,7 @@ h1 {
         transform: translateY(-4px);
     }
 }
+
 
 
 
